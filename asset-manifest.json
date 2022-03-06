@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.d9a548b7.css",
-    "main.js": "/static/js/main.b366c983.js",
+    "main.js": "/static/js/main.a41c6ebe.js",
     "static/js/787.ad4678b5.chunk.js": "/static/js/787.ad4678b5.chunk.js",
     "static/media/cavalli.png": "/static/media/cavalli.3fd9ea7b0e7c45d0a3f3.png",
     "static/media/smallcavalli.png": "/static/media/smallcavalli.232c7efe7c0b01c977da.png",
     "index.html": "/index.html",
     "main.d9a548b7.css.map": "/static/css/main.d9a548b7.css.map",
-    "main.b366c983.js.map": "/static/js/main.b366c983.js.map",
+    "main.a41c6ebe.js.map": "/static/js/main.a41c6ebe.js.map",
     "787.ad4678b5.chunk.js.map": "/static/js/787.ad4678b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9a548b7.css",
-    "static/js/main.b366c983.js"
+    "static/js/main.a41c6ebe.js"
   ]
 }
