@@ -7,5 +7,5 @@
   {"month":"Settembre","entrate":{"salary":43128,"shared_rent":8000},"uscite":{"rent":16000,"others":13558,"savings":13905},"year":2025},
   {"month":"Ottobre","entrate":{"salary":43128,"shared_rent":8000},"uscite":{"rent":16000,"others":12160,"savings":37351},"year":2025},
   {"month":"Novembre","entrate":{"salary":53439,"shared_rent":8000},"uscite":{"rent":16000,"others":17691,"savings":13905},"year":2025},
-  {"month":"Dicembre","entrate":{"salary":420891,"shared_rent":8000},"uscite":{"rent":16500,"others":20557,"savings":13905},"year":2025}
+  {"month":"Dicembre","entrate":{"salary":42891,"shared_rent":8000},"uscite":{"rent":16500,"others":20557,"savings":13905},"year":2025}
 ]
