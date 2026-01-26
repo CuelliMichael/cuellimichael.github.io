@@ -1,0 +1,11 @@
+[
+  {"month":"Aprile","cash":{"checking_account":33389,"savings_account":115000},"investments":{"global_indeks_A":412500,"storebrand_nye_M":0,"crypto":45165,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Maggio","cash":{"checking_account":33389,"savings_account":115000},"investments":{"global_indeks_A":388144,"storebrand_nye_M":0,"crypto":45165,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Giugno","cash":{"checking_account":49605,"savings_account":125000},"investments":{"global_indeks_A":410086,"storebrand_nye_M":13394,"crypto":39840,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Luglio","cash":{"checking_account":40456,"savings_account":125000},"investments":{"global_indeks_A":436231,"storebrand_nye_M":32087,"crypto":44211,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Agosto","cash":{"checking_account":34557,"savings_account":125000},"investments":{"global_indeks_A":446714,"storebrand_nye_M":34295,"crypto":42822,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Settembre","cash":{"checking_account":50491,"savings_account":105000},"investments":{"global_indeks_A":458337,"storebrand_nye_M":47467,"crypto":55626,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Ottobre","cash":{"checking_account":34490,"savings_account":105000},"investments":{"global_indeks_A":483185,"storebrand_nye_M":53517,"crypto":78814,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Novembre","cash":{"checking_account":49930,"savings_account":105000},"investments":{"global_indeks_A":500055,"storebrand_nye_M":54616,"crypto":61375,"azioni":{"BSD2": 1149, "CRIN":1461,"AMZN":2211,"NVDA":1791},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Dicembre","cash":{"checking_account":49325,"savings_account":77500},"investments":{"global_indeks_A":514387,"storebrand_nye_M":58627,"crypto":63323,"azioni":{"BSD2": 1316, "CRIN":1679,"AMZN":2322,"NVDA":1889, "NFLX":3973},"BSU":27500},"liabilities":{},"year":2025}
+]
