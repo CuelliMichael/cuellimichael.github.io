@@ -1,0 +1,15 @@
+[
+  {"month":"Aprile","cash":{"savings_account":105000},"investments":{"global_indeks_A":10000,"storebrand_nye_M":0,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Maggio","cash":{"savings_account":10000},"investments":{"global_indeks_A":11000,"storebrand_nye_M":0,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Giugno","cash":{"savings_account":10000},"investments":{"global_indeks_A":10800,"storebrand_nye_M":12700,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Luglio","cash":{"savings_account":0},"investments":{"global_indeks_A":10800,"storebrand_nye_M":17700,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Agosto","cash":{"savings_account":0},"investments":{"global_indeks_A":11124,"storebrand_nye_M":2781,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Settembre","cash":{"savings_account":-20000},"investments":{"global_indeks_A":2781,"storebrand_nye_M":11124,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Ottobre","cash":{"savings_account":0},"investments":{"global_indeks_A":11124,"storebrand_nye_M":2781,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Novembre","cash":{"savings_account":0},"investments":{"global_indeks_A":11124,"storebrand_nye_M":2781,"azioni":{"BSD2": {"acquisto": 1144.71, "Q_A": 11}, "CRIN": {"acquisto": 1456.84, "Q_A": 2},"AMZN": {"acquisto": 2210.98, "Q_A": 1},"NVDA": {"acquisto": 1791.48, "Q_A": 1}},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Dicembre","cash":{"savings_account":-27500},"investments":{"global_indeks_A":11124,"storebrand_nye_M":2781,"azioni":{"BSD2": {}, "CRIN":{},"AMZN":{"vendita": 2325.26, "Q_V":1},"NVDA":{"vendita": 1892.60, "Q_V":1}, "NFLX":{"acquisto":3971.59, "Q_A":4}},"BSU":27500},"liabilities":{},"year":2025},
+  {"month":"Gennaio","cash":{"savings_account":20000},"investments":{"global_indeks_A":0,"storebrand_nye_M":2781,"azioni":{"BSD2": {}, "CRIN":{"acquisto":2491.28, "Q_A":3}, "48CA":{"acquisto":2403, "Q_A":19},"NFLX":{}},"BSU":27500},"liabilities":{},"year":2026},
+  {"month":"Febbraio","cash":{"savings_account":-85000},"investments":{"global_indeks_A":10000,"storebrand_nye_M":0,"azioni":{"BSD2": {}, "CRIN":{"acquisto":50357.29, "Q_A":60}, "48CA":{"acquisto":21351.78, "Q_A":181}, "NFLX":{}},"BSU":0},"liabilities":{},"year":2026},
+  {"month":"Marzo","cash":{"savings_account":-15000},"investments":{"global_indeks_A":15671,"storebrand_nye_M":5226,"azioni":{"BSD2": {"vendita": 1184.02, "Q_V":11}, "CRIN":{"acquisto":48280.73, "Q_A":73}, "48CA":{"acquisto":2177.51, "Q_A":20}, "NFLX":{} },"BSU":0},"liabilities":{},"year":2026},
+  {"month":"Aprile","cash":{"savings_account":27000},"investments":{"global_indeks_A":4251,"storebrand_nye_M":1896,"azioni":{"CRIN":{"vendita": 67714.78, "Q_V":91, "acquisto": 104379.88, "Q_A": 134}, "48CA":{},"NFLX": {"vendita":3905.52, "Q_V":4}},"BSU":0},"liabilities":{},"year":2026}
+]
