@@ -13,5 +13,6 @@
   {"month":"Marzo","entrate":{"salary":43116,"shared_rent":8000},"uscite":{"rent":16500,"others":137,"savings":35897, "asilo":1700,"spesa": 6123, "ristorante": 364, "vacanze": 105, "trasporti": 0, "health": 1253},"year":2026},
   {"month":"Aprile","entrate":{"salary":97265,"shared_rent":8000, "others":16439},"uscite":{"rent":16500, "asilo":1700,"others":5267,"savings":39658, "spesa": 5862, "ristorante": 59, "vacanze": 0, "trasporti": 0, "health": 341},"year":2026},
   {"month":"Maggio","entrate":{"salary":43116,"shared_rent":8000, "others":4300},"uscite":{"rent":16500, "asilo":1700,"others":2524,"savings":52400, "spesa": 7077, "ristorante": 2362, "vacanze": 9889, "trasporti": 0, "health": 0},"year":2026},
-  {"month":"Giugno","entrate":{"salary":76431,"shared_rent":8000, "others":0},"uscite":{"rent":16500, "asilo":0,"others":778,"savings":63000, "spesa": 8708, "ristorante": 0, "vacanze": 0, "trasporti": 0, "health": 0},"year":2026}
+  {"month":"Giugno","entrate":{"salary":76431,"shared_rent":8000, "others":0},"uscite":{"rent":16500, "asilo":0,"others":778,"savings":63000, "spesa": 8708, "ristorante": 0, "vacanze": 0, "trasporti": 0, "health": 0},"year":2026},
+  {"month":"Luglio","entrate":{"salary":43983,"shared_rent":8000, "others":0},"uscite":{"rent":16500, "asilo":1700,"others":6401,"savings":26313.4, "spesa": 9933.8, "ristorante": 1220, "vacanze": 0, "trasporti": 105, "health": 288},"year":2026}
 ]
