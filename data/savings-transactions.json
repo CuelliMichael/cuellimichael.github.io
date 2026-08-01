@@ -330,5 +330,39 @@
     },
     "liabilities": {},
     "year": 2026
+  },
+  {
+    "month": "Luglio",
+    "cash": {
+      "savings_account": 0
+    },
+    "investments": {
+      "global_indeks_A": 5000,
+      "storebrand_nye_M": 5000,
+      "bond": {
+        "landkreditt_Høyrente_A": 0
+      },
+      "azioni": {
+        "CRIN": {
+          "acquisto": 12313.4,
+          "Q_A": 14
+        },
+        "48CA": {},
+        "EAM": {},
+        "AOO": {
+          "acquisto": 2310.58,
+          "Q_A": 3
+        },
+        "NTO": {},
+        "OJA": {},
+        "N9U": {
+          "acquisto": 1720.89,
+          "Q_A": 30
+          }
+      },
+      "BSU": 0
+    },
+    "liabilities": {},
+    "year": 2026
   }
 ]
