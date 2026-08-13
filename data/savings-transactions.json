@@ -5,8 +5,10 @@
       "savings_account": 105000
     },
     "investments": {
-      "global_indeks_A": 10000,
-      "storebrand_nye_M": 0,
+      "ETF": {
+        "global_indeks_A": 10000,
+        "storebrand_nye_M": 0
+      },
       "azioni": {},
       "BSU": 0,
       "bond": {}
@@ -20,8 +22,10 @@
       "savings_account": 10000
     },
     "investments": {
-      "global_indeks_A": 11000,
-      "storebrand_nye_M": 0,
+      "ETF": {
+        "global_indeks_A": 11000,
+        "storebrand_nye_M": 0
+      },
       "azioni": {},
       "BSU": 0,
       "bond": {}
@@ -35,8 +39,10 @@
       "savings_account": 10000
     },
     "investments": {
-      "global_indeks_A": 10800,
-      "storebrand_nye_M": 12700,
+      "ETF": {
+        "global_indeks_A": 10800,
+        "storebrand_nye_M": 12700
+      },
       "azioni": {},
       "BSU": 0,
       "bond": {}
@@ -50,8 +56,10 @@
       "savings_account": 0
     },
     "investments": {
-      "global_indeks_A": 10800,
-      "storebrand_nye_M": 17700,
+      "ETF": {
+        "global_indeks_A": 10800,
+        "storebrand_nye_M": 17700
+      },
       "azioni": {},
       "BSU": 0,
       "bond": {}
@@ -65,8 +73,10 @@
       "savings_account": 0
     },
     "investments": {
-      "global_indeks_A": 11124,
-      "storebrand_nye_M": 2781,
+      "ETF": {
+        "global_indeks_A": 11124,
+        "storebrand_nye_M": 2781
+      },
       "azioni": {},
       "BSU": 0,
       "bond": {}
@@ -80,8 +90,10 @@
       "savings_account": -20000
     },
     "investments": {
-      "global_indeks_A": 2781,
-      "storebrand_nye_M": 11124,
+      "ETF": {
+        "global_indeks_A": 2781,
+        "storebrand_nye_M": 11124
+      },
       "azioni": {},
       "BSU": 0,
       "bond": {}
@@ -95,8 +107,10 @@
       "savings_account": 0
     },
     "investments": {
-      "global_indeks_A": 11124,
-      "storebrand_nye_M": 2781,
+      "ETF": {
+        "global_indeks_A": 11124,
+        "storebrand_nye_M": 2781
+      },
       "azioni": {},
       "BSU": 0,
       "bond": {}
@@ -110,8 +124,10 @@
       "savings_account": 0
     },
     "investments": {
-      "global_indeks_A": 11124,
-      "storebrand_nye_M": 2781,
+      "ETF": {
+        "global_indeks_A": 11124,
+        "storebrand_nye_M": 2781
+      },
       "azioni": {
         "BSD2": {
           "acquisto": 1144.71,
@@ -142,8 +158,10 @@
       "savings_account": -27500
     },
     "investments": {
-      "global_indeks_A": 11124,
-      "storebrand_nye_M": 2781,
+      "ETF": {
+        "global_indeks_A": 11124,
+        "storebrand_nye_M": 2781
+      },
       "azioni": {
         "BSD2": {},
         "CRIN": {},
@@ -172,8 +190,10 @@
       "savings_account": 20000
     },
     "investments": {
-      "global_indeks_A": 0,
-      "storebrand_nye_M": 2781,
+      "ETF": {
+        "global_indeks_A": 0,
+        "storebrand_nye_M": 2781
+      },
       "azioni": {
         "BSD2": {},
         "CRIN": {
@@ -198,8 +218,10 @@
       "savings_account": -85000
     },
     "investments": {
-      "global_indeks_A": 10000,
-      "storebrand_nye_M": 0,
+      "ETF": {
+        "global_indeks_A": 10000,
+        "storebrand_nye_M": 0
+      },
       "azioni": {
         "BSD2": {},
         "CRIN": {
@@ -224,8 +246,10 @@
       "savings_account": -15000
     },
     "investments": {
-      "global_indeks_A": 15671,
-      "storebrand_nye_M": 5226,
+      "ETF": {
+        "global_indeks_A": 15671,
+        "storebrand_nye_M": 5226
+      },
       "azioni": {
         "BSD2": {
           "vendita": 1184.02,
@@ -253,8 +277,10 @@
       "savings_account": 27000
     },
     "investments": {
-      "global_indeks_A": 4251,
-      "storebrand_nye_M": 1896,
+      "ETF": {
+        "global_indeks_A": 4251,
+        "storebrand_nye_M": 1896
+      },
       "azioni": {
         "CRIN": {
           "vendita": 67714.78,
@@ -280,8 +306,10 @@
       "savings_account": -26675
     },
     "investments": {
-      "global_indeks_A": 0,
-      "storebrand_nye_M": 3000,
+      "ETF": {
+        "global_indeks_A": 0,
+        "storebrand_nye_M": 3000
+      },
       "bond": {
         "landkreditt_Høyrente_A": 45000
       },
@@ -304,8 +332,10 @@
       "savings_account": 0
     },
     "investments": {
-      "global_indeks_A": 0,
-      "storebrand_nye_M": 4000,
+      "ETF": {
+        "global_indeks_A": 0,
+        "storebrand_nye_M": 4000
+      },
       "bond": {
         "landkreditt_Høyrente_A": 55000
       },
@@ -337,8 +367,10 @@
       "savings_account": 0
     },
     "investments": {
-      "global_indeks_A": 5000,
-      "storebrand_nye_M": 5000,
+      "ETF": {
+        "global_indeks_A": 5000,
+        "storebrand_nye_M": 5000
+      },
       "bond": {
         "landkreditt_Høyrente_A": 0
       },
