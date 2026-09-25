@@ -1,0 +1,14 @@
+[
+  {"month":"Settembre","entrate":{"salary":52000,"freelance":8000},"uscite":{"rent":14000,"asilo":2500,"savings":17000,"spesa":6200,"ristorante":1800,"vacanze":0,"trasporti":1200,"health":500,"subscriptions":900},"year":2025},
+  {"month":"Ottobre","entrate":{"salary":53500,"freelance":2000},"uscite":{"rent":14000,"asilo":2500,"savings":18000,"spesa":5800,"ristorante":1600,"vacanze":2500,"trasporti":900,"health":350,"subscriptions":900},"year":2025},
+  {"month":"Novembre","entrate":{"salary":52000,"freelance":0},"uscite":{"rent":14000,"asilo":2500,"savings":16000,"spesa":6100,"ristorante":2200,"vacanze":0,"trasporti":1300,"health":1200,"subscriptions":900},"year":2025},
+  {"month":"Dicembre","entrate":{"salary":65000,"freelance":7000},"uscite":{"rent":14000,"asilo":2500,"savings":24000,"spesa":7200,"ristorante":3800,"vacanze":9500,"trasporti":1100,"health":600,"subscriptions":900},"year":2025},
+  {"month":"Gennaio","entrate":{"salary":54000,"freelance":0},"uscite":{"rent":14500,"asilo":2500,"savings":18000,"spesa":6000,"ristorante":1200,"vacanze":0,"trasporti":1000,"health":500,"subscriptions":900},"year":2026},
+  {"month":"Febbraio","entrate":{"salary":54000,"freelance":3500},"uscite":{"rent":14500,"asilo":2500,"savings":19000,"spesa":5800,"ristorante":1800,"vacanze":2200,"trasporti":900,"health":450,"subscriptions":900},"year":2026},
+  {"month":"Marzo","entrate":{"salary":54000,"freelance":0},"uscite":{"rent":14500,"asilo":2500,"savings":12000,"spesa":6500,"ristorante":2500,"vacanze":0,"trasporti":1000,"health":6500,"subscriptions":900},"year":2026},
+  {"month":"Aprile","entrate":{"salary":55000,"freelance":5000},"uscite":{"rent":14500,"asilo":2500,"savings":20000,"spesa":6200,"ristorante":1700,"vacanze":0,"trasporti":1200,"health":400,"subscriptions":900},"year":2026},
+  {"month":"Maggio","entrate":{"salary":55000,"freelance":0},"uscite":{"rent":14500,"asilo":2500,"savings":19000,"spesa":6800,"ristorante":2200,"vacanze":4000,"trasporti":900,"health":350,"subscriptions":900},"year":2026},
+  {"month":"Giugno","entrate":{"salary":56000,"freelance":8000},"uscite":{"rent":14500,"asilo":2500,"savings":15000,"spesa":6500,"ristorante":2600,"vacanze":14000,"trasporti":1200,"health":400,"subscriptions":900},"year":2026},
+  {"month":"Luglio","entrate":{"salary":56000,"freelance":0},"uscite":{"rent":14500,"asilo":2500,"savings":21000,"spesa":7000,"ristorante":3000,"vacanze":3500,"trasporti":1000,"health":300,"subscriptions":900},"year":2026},
+  {"month":"Agosto","entrate":{"salary":58000,"freelance":4000},"uscite":{"rent":14500,"asilo":2500,"savings":22000,"spesa":6300,"ristorante":2100,"vacanze":1000,"trasporti":1100,"health":700,"subscriptions":900},"year":2026}
+]
