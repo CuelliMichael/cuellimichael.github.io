@@ -1,5 +1,5 @@
 [
-  {"month":"Aprile","cash":{"checking_account":33389,"savings_account":115000},"investments":{"ETF":{"global_indeks_A":412500,"storebrand_nye_M":0},"crypto":45165,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
+  {"month":"Aprile","cash":{"checking_account":33389,"savings_account":115000},"investments":{"ETF":{"global_indeks_A":412500,"storebrand_nye_M":0},"crypto":45165,"azioni":{},"BSU":0},"liabilities":{},"year":2025,"_meta":{"investments.ETF.global_indeks_A":{"kind":"field","investedCapital":401500}}},
   {"month":"Maggio","cash":{"checking_account":33389,"savings_account":115000},"investments":{"ETF":{"global_indeks_A":388144,"storebrand_nye_M":0},"crypto":45165,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
   {"month":"Giugno","cash":{"checking_account":49605,"savings_account":125000},"investments":{"ETF":{"global_indeks_A":410086,"storebrand_nye_M":13394},"crypto":39840,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
   {"month":"Luglio","cash":{"checking_account":40456,"savings_account":125000},"investments":{"ETF":{"global_indeks_A":436231,"storebrand_nye_M":32087},"crypto":44211,"azioni":{},"BSU":0},"liabilities":{},"year":2025},
