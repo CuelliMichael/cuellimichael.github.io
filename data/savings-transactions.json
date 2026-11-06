@@ -1,5 +1,5 @@
 [
-  {"month":"Aprile","cash":{"savings_account":105000},"investments":{"ETF":{"global_indeks_A":10000,"storebrand_nye_M":0},"azioni":{},"BSU":0,"bond":{}},"liabilities":{},"year":2025},
+  {"month":"Aprile","cash":{"savings_account":105000},"investments":{"ETF":{"global_indeks_A":401500,"storebrand_nye_M":0},"azioni":{},"BSU":0,"bond":{}},"liabilities":{},"year":2025,"_meta":{"cash":{"kind":"group"},"cash.savings_account":{"kind":"field"},"investments":{"kind":"group"},"investments.ETF":{"kind":"group"},"investments.ETF.global_indeks_A":{"kind":"field"},"investments.ETF.storebrand_nye_M":{"kind":"field"},"investments.azioni":{"kind":"trade-group"},"investments.BSU":{"kind":"field"},"investments.bond":{"kind":"group"},"liabilities":{"kind":"group"}}},
   {"month":"Maggio","cash":{"savings_account":10000},"investments":{"ETF":{"global_indeks_A":11000,"storebrand_nye_M":0},"azioni":{},"BSU":0,"bond":{}},"liabilities":{},"year":2025},
   {"month":"Giugno","cash":{"savings_account":10000},"investments":{"ETF":{"global_indeks_A":10800,"storebrand_nye_M":12700},"azioni":{},"BSU":0,"bond":{}},"liabilities":{},"year":2025},
   {"month":"Luglio","cash":{"savings_account":0},"investments":{"ETF":{"global_indeks_A":10800,"storebrand_nye_M":17700},"azioni":{},"BSU":0,"bond":{}},"liabilities":{},"year":2025},
